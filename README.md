@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**MuhammadAdil006/MuhammadAdil006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=MuhammadAdil006)
 
 Here are some ideas to get you started:
 
