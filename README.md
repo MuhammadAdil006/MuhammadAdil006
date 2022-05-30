@@ -35,3 +35,8 @@ Version Control
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAdil006&show_icons=true&locale=en&layout=compact" alt="MuhammadAdil006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAdil006&show_icons=true&locale=en" alt="MuhammadAdil006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAdil006&" alt="MuhammadAdil006" /></p>
