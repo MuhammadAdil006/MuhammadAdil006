@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MuhammadAdil006)
 
-Learning MERN
+Learning Nodejs
 ### 🚀 About Me
 - 👋 I’m Muhammad Adil. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023.
 - 👀 I’m interested in Programming, gaming and designing.
