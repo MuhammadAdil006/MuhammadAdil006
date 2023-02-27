@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MuhammadAdil006)
 
 Road to Web3 developer
 ### 🚀 About Me
